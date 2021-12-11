@@ -30,6 +30,7 @@ ScriptsOnlyBuild:
     - MeshCombiner
     - NotificationHUDManager
     - NotificationToast
+    - ObjectiveCompleteLaps
     - ObjectiveHUDManger
     - ObjectiveManager
     - ObjectiveReachTargets
@@ -210,8 +211,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3906}
     - Class: 114
-      Script: {instanceID: 3978}
-    - Class: 114
       Script: {instanceID: 3982}
     - Class: 114
       Script: {instanceID: 4010}
@@ -259,6 +258,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5818}
     - Class: 114
       Script: {instanceID: 6000}
+    - Class: 114
+      Script: {instanceID: 6070}
     - Class: 114
       Script: {instanceID: 6136}
     - Class: 114
@@ -2523,4 +2524,4 @@ ScriptsOnlyBuild:
   - Assets/Karting/Scenes/FourthScene.unity
   - Assets/Karting/Scenes/LoseScene.unity
   - Assets/Karting/Scenes/WinScene.unity
-  playerPath: "C:/Egyetem/3.f\xE9l\xE9v/prog2/unity/Car ride/Car ride.exe"
+  playerPath: "C:/Egyetem/3.f\xE9l\xE9v/prog2/unity/Car ride/Game/Car ride.exe"
